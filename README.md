@@ -1,6 +1,7 @@
 # Fine-Tuning Vision Models with LoRA
 
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SZPSFeNQ6g7kx3CNV4TMA7YzPi9Y3Wqf#scrollTo=ESlR7TxUVcAk)
+ 
 
 This project demonstrates how to fine-tune vision models using the [LoRA (Low-Rank Adaptation)](https://arxiv.org/abs/2106.09685) technique on custom image datasets with the Hugging Face 🤗 Transformers and Datasets libraries.
 
